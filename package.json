@@ -1,0 +1,22 @@
+{
+  "name": "hellonodejs",
+  "version": "1.0.0",
+  "description": "Simple helloworld app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaosinc/hellonodejs.git"
+  },
+  "author": "Tom Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaosinc/hellonodejs/issues"
+  },
+  "homepage": "https://github.com/kaosinc/hellonodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
